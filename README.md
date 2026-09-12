@@ -22,7 +22,7 @@ calificacion2 ← 90
 resultado ← calcularPromedio(calificacion1, calificacion2)
 IMPRIMIR resultado
 
- ## Explicación de la funcion
+ ## Explicación de la función
 El programa en Python implementa una función llamada calcular_promedio que recibe dos calificaciones como parámetros, calcula la media aritmética y devuelve el resultado mediante return. En el bloque principal (if __name__ == "__main__":), se definen variables de prueba, se invoca la función y se muestra el resultado final en la consola usando un mensaje formateado con print.
 
  ## Ejemplo al ejecutar
