@@ -3,7 +3,7 @@
 -**UNIVERSIDAD ESTATAL AMAZONICA**
 - **Nombre del Estudiante:** Pluas Lombeida Israel Efrain
 - **Asignatura:** Fundamentos de Programación I 
-- **Nombre del Programa:** `función_promedio.py`
+- **Nombre del Programa:** `fpromedio.py`
 
 ## Objetivo
 El problema consiste en calcular la calificación promedio de un estudiante a partir de dos notas obtenidas. La función desarrollada recibe ambas calificaciones como parámetros, suma sus valores, los divide entre dos para obtener la media aritmética y retorna el resultado listo para ser mostrado en consola.
